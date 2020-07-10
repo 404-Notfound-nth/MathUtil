@@ -9,6 +9,6 @@ This repository contains a simple Java application used for demonstration of CI-
 ## Connect me via
 1. [Github](http://github.com/thanhhiep0212)
 2. [Facebook](http://facebook.com/nthh0212)
-3.  [Email](hiepntse140248@fpt.edu.vn)
+3. [Email](hiepntse140248@fpt.edu.vn)
 
 ### © 2020 by hiep \ FPT University HCMC Campus
